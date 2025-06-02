@@ -1,0 +1,11 @@
+# Flutter/Dart/Pub
+.dart_tool/
+.packages
+build/
+ios/Flutter/Flutter.framework
+ios/Pods/
+*.iml
+.idea/
+.flutter-plugins
+.flutter-plugins-dependencies
+pubspec.lock
